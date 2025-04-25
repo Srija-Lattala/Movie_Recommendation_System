@@ -1,5 +1,7 @@
 # Movie Recommendation System
 
+[![Streamlit Deployment](https://img.shields.io/badge/Streamlit-Live_App-brightgreen)](https://movie-recommendation-a.streamlit.app/)
+
 This is a Movie Recommendation System built using a dataset of movies and their associated information, including credits and overviews. The system utilizes content-based filtering using a TF-IDF vectorizer and a sigmoid kernel to recommend similar movies based on a given movie title.
 
 ## Features
